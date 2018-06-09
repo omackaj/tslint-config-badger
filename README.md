@@ -1,6 +1,8 @@
-# TSLint Badger Config
+# TSLint Config
 
 Sharable tslint config for TypeScript linting.
+
+## Usage
 
 Use in your tslint.json file.
 
