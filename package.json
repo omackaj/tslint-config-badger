@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-badger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tslint sharable config",
   "main": "index.js",
   "scripts": {
