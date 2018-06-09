@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/omackaj/tslint-config-badger/issues"
   },
-  "homepage": "https://github.com/omackaj/tslint-config-badger#readme"
+  "homepage": "https://github.com/omackaj/tslint-config-badger#readme",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.9.2",
+    "tslint-config-prettier": "^1.13.0",
+    "tslint-react": "^3.6.0"
+  }
 }

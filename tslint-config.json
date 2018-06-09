@@ -1,4 +1,10 @@
 {
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint-config-airbnb",
+    "tslint-config-prettier",
+    "tslint-react"
+  ],
   "rules": {
     "import-name": false,
     "jsx-boolean-value": false,
@@ -11,8 +17,7 @@
       true,
       "next",
       "redux-saga",
-      "react-intl",
-      "up-design-system"
+      "react-intl"
     ],
     "object-curly-spacing": [true, "always"],
     "object-literal-sort-keys": [true, "shorthand-first"],
