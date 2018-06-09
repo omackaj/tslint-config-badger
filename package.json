@@ -1,0 +1,19 @@
+{
+  "name": "tslint-config-badger",
+  "version": "0.0.1",
+  "description": "Tslint sharable config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omackaj/tslint-config-badger.git"
+  },
+  "author": "Jan Omacka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omackaj/tslint-config-badger/issues"
+  },
+  "homepage": "https://github.com/omackaj/tslint-config-badger#readme"
+}
