@@ -1,3 +1,16 @@
-# TS-LINT Config
+# TSLint Badger Config
 
-tslint sharable config rules
+Sharable tslint config for TypeScript linting.
+
+Use in your tslint.json file.
+
+```
+{
+  ...
+  "extends": [
+    "tslint:latest",
+    "tslint-config-badger/tslint-config"
+  ]
+  ...
+}
+  ```

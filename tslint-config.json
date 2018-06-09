@@ -13,12 +13,7 @@
     "member-ordering": false,
     "no-boolean-literal-compare": true,
     "no-implicit-dependencies": [true, "dev"],
-    "no-submodule-imports": [
-      true,
-      "next",
-      "redux-saga",
-      "react-intl"
-    ],
+    "no-submodule-imports": [false],
     "object-curly-spacing": [true, "always"],
     "object-literal-sort-keys": [true, "shorthand-first"],
     "semicolon": [true, "never"],
